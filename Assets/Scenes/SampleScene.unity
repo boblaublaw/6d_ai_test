@@ -256,6 +256,11 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e34f4347dda244a18add93c72dd1167b, type: 2}
   m_IsPrefabAsset: 0
+--- !u!20 &942579436 stripped
+Camera:
+  m_CorrespondingSourceObject: {fileID: 20782545856133516, guid: e34f4347dda244a18add93c72dd1167b,
+    type: 2}
+  m_PrefabInternal: {fileID: 942579435}
 --- !u!1 &1071846995
 GameObject:
   m_ObjectHideFlags: 0
@@ -358,6 +363,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc5ff349f1d8648d8b7e12ee8f35dd05, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ARCamera: {fileID: 942579436}
+  ballReference: {fileID: 1021020470867402, guid: 4adae91b0fee342f4a062d425ac3cce9,
+    type: 2}
 --- !u!1001 &1936963657
 Prefab:
   m_ObjectHideFlags: 0
