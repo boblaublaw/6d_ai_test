@@ -151,8 +151,10 @@ PlayerSettings:
   resolutionScalingMode: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier: {}
-  buildNumber: {}
+  applicationIdentifier:
+    iOS: com.joeboyle.6d
+  buildNumber:
+    iOS: 1
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
