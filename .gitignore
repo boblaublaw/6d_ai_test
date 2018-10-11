@@ -1,10 +1,10 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
-/Assets/StreamingAssets/WrldResources/*
+Assets/Plugins/iOS/SixDegreesSDK.plist
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/AssetStoreTools*
 
 # Visual Studio 2015 cache directory
 /.vs/
@@ -30,8 +30,6 @@ ExportedObj/
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
 
-
-Assets/Plugins/iOS/SixDegreesSDK.plist
 
 # Builds
 *.apk
