@@ -1,10 +1,10 @@
-Assets/Plugins/iOS/SixDegreesSDK.plist
-[Ll]ibrary/
+Library*
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 Assets/AssetStoreTools*
+Assets/Plugins/iOS/SixDegreesSDK.plist
 
 # Visual Studio 2015 cache directory
 /.vs/
